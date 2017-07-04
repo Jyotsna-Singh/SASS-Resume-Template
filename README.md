@@ -9,7 +9,9 @@ Resume Template built on the Twitter Bootstrap Framework and SASS Preprocessor
 
 ## Features
 **1.** Bootstrap Components- Grid Systems, List Styling and Progress Bar
+
 **2.** SASS Preprocessor - Variables & Nesting features.
+
 **3.** Scout-App as the compiler. (Convert *.scss* to *.css* & minify the file)
 
 ## Clone/Download
@@ -26,7 +28,9 @@ Resume Template built on the Twitter Bootstrap Framework and SASS Preprocessor
 ## Vendors
 
 Bootstrap [http://getbootstrap.com/](http://getbootstrap.com/)
+
 SASS [http://sass-lang.com/](http://sass-lang.com/)
+
 Scout-App [http://scout-app.io/](http://scout-app.io/)
 
 ## License
